@@ -1,0 +1,31 @@
+package mm347.rgbgems2.config;
+
+import java.io.File;
+
+import net.minecraftforge.common.config.Configuration;
+
+
+public class ConfigHandler {
+	
+	public static Configuration config;
+	
+	public static void init(File configFile) {
+		config = new Configuration(configFile);
+		boolean generateRubite = false;
+		
+		try {
+			config.load();
+			generateRubite = config.get(Configuration.CATEGORY_GENERAL,"generateRubite", true, "Whether or not to generate Rubite Ore").getBoolean(true);
+		}
+		
+		catch (Exception e) {
+			//Log exception
+		}
+		
+		finally {
+			if (config.hasChanged()) {
+				config.save();
+			}
+		}
+	}
+}

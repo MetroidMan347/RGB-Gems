@@ -1,0 +1,8 @@
+package com.mm347.rgbgems;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(modid="rgbgems",name="RGB Gems",version="1.7.10-1.0")
+public class RGB_Gems {
+	
+}

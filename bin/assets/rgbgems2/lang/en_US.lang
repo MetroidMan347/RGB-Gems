@@ -1,0 +1,8 @@
+item.rgbgems2:gemRubite.name=Rubite Gemstone
+item.rgbgems2:gemSapphirite.name=Sapphirite Gemstone
+item.rgbgems2:gemEmerite.name=Emerite Gemstone
+tile.rgbgems2:blockRubite.name=Block of Rubite
+tile.rgbgems2:blockSapphirite.name=Block of Sapphirite
+tile.rgbgems2:blockEmerite.name=Block of Emerite
+itemGroup.rgbgems2:gems=RGB Gems
+itemGroup.rgbgems2:gemTools=RGB Gem Tools

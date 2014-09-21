@@ -1,0 +1,21 @@
+[
+{
+  "modid": "rgbgems2",
+  "name": "RGB Gems 2",
+  "description": "Adds Red, Green and Blue gemstones to Minecraft",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Jake Janzen"
+  ],
+  "credits": "Made by Jake Janzen aka MetroidMan347",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

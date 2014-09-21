@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.Mod.EventHandler"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.event.FMLPreInitializationEvent"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.event.FMLInitializationEvent"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.event.FMLPostInitializationEvent"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.Mod.Instance"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.SidedProxy"/>
+<fullyQualifiedTypeName name="mm347.rgbgems.proxy.IProxy"/>
+<fullyQualifiedTypeName name="mm347.rgbgems.reference.Reference"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.Mod"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="mm347.rgbgems2.config.ConfigHandler"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.FMLCommonHandler"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.client.event.ConfigChangedEvent"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.client.event.ConfigChangedEvent.OnConfigChangedEvent"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.eventhandler.SubscribeEvent"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.client.IModGuiFactory"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.client.config.GuiConfig"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.GuiScreen"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.config.Configuration"/>
+<fullyQualifiedTypeName name="mm347.rgbgems2.handler.ConfigHandler"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.config.ConfigElement"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.FMLLog"/>
+<fullyQualifiedTypeName name="org.apache.logging.log4j.Level"/>
+<fullyQualifiedTypeName name="mm347.rgbgems2.utility.LogHelper"/>
+<fullyQualifiedTypeName name="mm347.rgbgems2.init.ModItems"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemStack"/>
+<fullyQualifiedTypeName name="net.minecraft.block.Block"/>
+<fullyQualifiedTypeName name="net.minecraft.block.material.Material"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.relauncher.Side"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.relauncher.SideOnly"/>
+<fullyQualifiedTypeName name="net.minecraft.client.renderer.texture.IIconRegister"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry"/>
+<fullyQualifiedTypeName name="mm347.rgbgems2.block.ModBlocks"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry.ObjectHolder"/>
+<fullyQualifiedTypeName name="net.minecraft.creativetab.CreativeTabs"/>
+<fullyQualifiedTypeName name="javax.swing.Icon"/>
+<fullyQualifiedTypeName name="mm347.rgbgems2.reference.Reference"/>
+<fullyQualifiedTypeName name="mm347.rgbgems2.item.ModItems"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="mm347.rgbgems2.creativetab.ModTabs"/>
+<fullyQualifiedTypeName name="net.minecraft.util.IIcon"/>
+</qualifiedTypeNameHistroy>

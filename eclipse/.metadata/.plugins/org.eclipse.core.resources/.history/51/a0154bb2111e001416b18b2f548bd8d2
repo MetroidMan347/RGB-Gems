@@ -1,0 +1,20 @@
+package mm347.rgbgems2.item;
+
+import mm347.rgbgems2.reference.Reference;
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.item.Item;
+
+public class ItemRGB extends Item {
+	public ItemRGB() /*int maxStackSize, CreativeTabs tab)*/ {
+		super();
+	}
+	
+	@Override
+	public String getUnlocalizedName() {
+		return String.format("item.%s%s", Reference.MOD_ID, getUnwrappedUnlocalizedName(super.getUnlocalizedName()));
+	}
+	
+	protected String getUnwrappedUnlocalizedName(String unlocalizedName) {
+		return unlocalizedName.substring(unlocalizedName.indexOf(".")+1);
+	}
+}

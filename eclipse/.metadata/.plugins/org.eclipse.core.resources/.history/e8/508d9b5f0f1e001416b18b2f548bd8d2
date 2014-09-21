@@ -1,0 +1,13 @@
+package mm347.rgbgems2.init;
+
+import mm347.rgbgems2.item.ItemTempItem;
+import net.minecraft.item.Item;
+import cpw.mods.fml.common.registry.GameRegistry;
+
+public class ModItems {
+	public static final Item tempItem = new ItemTempItem();
+	
+	public static void init() {
+		GameRegistry.registerItem(tempItem, "tempItem");
+	}
+}

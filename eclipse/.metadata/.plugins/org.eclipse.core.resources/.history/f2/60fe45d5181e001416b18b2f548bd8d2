@@ -1,0 +1,16 @@
+package mm347.rgbgems2.item;
+
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.item.Item;
+import cpw.mods.fml.common.registry.GameRegistry;
+
+public class ModItems {
+	public static final Item gemRubite = new ItemRGB("gemRubite");
+	public static final Item gemSapphirite = new ItemRGB("gemSapphirite");
+	public static final Item gemEmerite = new ItemRGB("gemEmerite");
+	
+	public static void init() {
+		GameRegistry.registerItem(gemRubite, "gemRubite");
+		GameRegistry.registerItem(gemEmerite, "gemEmerite");
+	}
+}

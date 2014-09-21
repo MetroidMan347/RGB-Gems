@@ -1,0 +1,13 @@
+package mm347.rgbgems2.block;
+
+import mm347.rgbgems2.reference.Reference;
+import cpw.mods.fml.common.registry.GameRegistry;
+
+@GameRegistry.ObjectHolder(Reference.MOD_ID)
+public class ModBlocks {
+	public static final BlockBasic temp = new BlockTemp();
+	
+	public static void init() {
+		GameRegistry.registerBlock(temp, "temp");
+	}
+}

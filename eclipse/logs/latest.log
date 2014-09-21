@@ -1,0 +1,25 @@
+[23:34:26] [main/INFO]: Setting user: ForgeDevName
+[23:34:34] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:34:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RGB Gems 2
+[23:34:53] [Sound Library Loader/INFO]: Sound engine started
+[23:35:00] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:35:00] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:35:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RGB Gems 2
+[23:35:01] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:35:01] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:35:02] [Sound Library Loader/INFO]: Sound engine started
+[23:35:13] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[23:35:13] [Server thread/INFO]: Generating keypair
+[23:35:15] [Server thread/INFO]: Preparing start region for level 0
+[23:35:16] [Server thread/INFO]: Preparing spawn area: 2%
+[23:35:17] [Server thread/INFO]: Changing view distance to 5, from 10
+[23:35:19] [Server thread/INFO]: ForgeDevName[local:E:d2b44ec5] logged in with entity id 137 at (763.4122391161642, 4.0, -1229.8464463294429)
+[23:35:19] [Server thread/INFO]: ForgeDevName joined the game
+[23:35:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2026ms behind, skipping 40 tick(s)
+[23:35:37] [Client thread/INFO]: Stopping!
+[23:35:37] [Server thread/INFO]: Stopping server
+[23:35:37] [Server thread/INFO]: Saving players
+[23:35:37] [Server thread/INFO]: Saving worlds
+[23:35:37] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:35:37] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:35:37] [Server thread/INFO]: Saving chunks for level 'New World'/The End

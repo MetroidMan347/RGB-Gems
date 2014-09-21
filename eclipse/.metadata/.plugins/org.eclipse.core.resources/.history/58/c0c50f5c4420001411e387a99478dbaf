@@ -1,0 +1,12 @@
+package mm347.rgbgems2.creativetab;
+
+import net.minecraft.creativetab.CreativeTabs;
+
+public class CreativeTabBasic {
+	public static final CreativeTabs RGBGEMS_TAB = new CreativeTabs() {
+		@Override
+		public Icon getTabIconItem() {
+			return null;
+		}
+	};
+}

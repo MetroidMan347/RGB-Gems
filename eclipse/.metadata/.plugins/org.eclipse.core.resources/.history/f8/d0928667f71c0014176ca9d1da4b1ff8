@@ -1,0 +1,5 @@
+package mm347.rgbgems.proxy;
+
+public class CommonProxy implements IProxy {
+	
+}

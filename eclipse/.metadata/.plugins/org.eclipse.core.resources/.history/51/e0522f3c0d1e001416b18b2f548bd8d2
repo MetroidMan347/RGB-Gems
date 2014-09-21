@@ -1,0 +1,7 @@
+package mm347.rgbgems2.item;
+
+public class ItemGemRubite extends ModItem {
+	public ItemGemRubite() {
+		super();
+	}
+}
